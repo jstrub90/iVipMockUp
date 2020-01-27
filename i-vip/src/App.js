@@ -39,7 +39,7 @@ import {
     Jumbotron,
     Button
 } from 'reactstrap';
-import './App.css';
+import '../src';
 
 class App extends Component {
     constructor(props) {
